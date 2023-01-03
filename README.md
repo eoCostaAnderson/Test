@@ -1,0 +1,1 @@
+Setando as primeiras configurações de um respositório.
